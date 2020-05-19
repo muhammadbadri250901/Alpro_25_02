@@ -16,7 +16,7 @@ public class r6no10 {
                         
 
                          System.out.println("\n");
-                         System.out.println("menampilkan selisih angka genap dengan setelahnya genap pula");
+                         System.out.println("menampilkan selisih angka genap dengan nilai setelahnya genap pula");
 
 
                int selisih;
